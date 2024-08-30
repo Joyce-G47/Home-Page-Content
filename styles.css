@@ -114,3 +114,24 @@ body, html {
     line-height: 1.5;
     color: #6c757d;
 }
+
+@media (max-width: 900px) {
+    h1 {
+      font-size: 44px;
+      line-height: 2;
+    }
+  
+    h2 {
+      font-size: 44px;
+    }
+  
+    .hero {
+      padding: 80px 20px;
+    }
+  
+    .project-desciption {
+      padding: 0;
+      text-align: center;
+    }
+  }
+  
